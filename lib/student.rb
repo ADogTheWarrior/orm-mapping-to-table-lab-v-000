@@ -8,7 +8,6 @@ class Student
     @name = name
     @grade = grade
     @id = nil
-    binding.pry
   end
 
   def create_table
