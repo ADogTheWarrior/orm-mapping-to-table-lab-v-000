@@ -28,6 +28,7 @@ class Student
   end
 
   def self.create(id)
+    binding.pry
   end
 
 end
