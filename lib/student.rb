@@ -9,16 +9,16 @@ class Student
     @id = nil
   end
 
-  def create_table
+  def self.create_table
   end
 
-  def drop_table
+  def self.drop_table
   end
 
-  def save
+  def self.save
   end
 
-  def create
+  def self.create
   end
 
 end
