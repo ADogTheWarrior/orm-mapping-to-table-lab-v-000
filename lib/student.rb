@@ -30,5 +30,4 @@ class Student
   def self.create(id)
     binding.pry
   end
-
 end
