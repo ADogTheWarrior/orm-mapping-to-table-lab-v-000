@@ -27,7 +27,7 @@ class Student
   def save
   end
 
-  def self.create(id)
-    binding.pry
+  def self.create(attributes)
   end
+
 end
