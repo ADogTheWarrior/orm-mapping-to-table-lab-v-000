@@ -27,7 +27,7 @@ class Student
   def save
   end
 
-  def self.create
+  def self.create(id)
   end
 
 end
